@@ -123,8 +123,8 @@ XFCE4 ini Desktop Environment yang ringan tapi tetep fungsional. Cocok buat HP a
     
 * **Download Script Shortcut Ajaib buat XFCE4:**
     Ini nih 'jalan pintasnya'.
-    Aku pakai repo dari Droidmaster
-    Stemasih di Termux biasa:
+    Aku pakai repo dari Droidmaster.
+    Masih di Termux biasa:
     ```bash
     wget [https://raw.githubusercontent.com/LinuxDroidMaster/Termux-Desktops/main/scripts/proot_debian/startxfce4_debian.sh](https://raw.githubusercontent.com/LinuxDroidMaster/Termux-Desktops/main/scripts/proot_debian/startxfce4_debian.sh)
     ```
