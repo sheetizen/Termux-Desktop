@@ -59,4 +59,3 @@ Nah, buat ngatasinnya, ada beberapa 'jurus' yang bisa kamu coba:
 * Pakai `termux-wake-lock`.
 * Nonaktifkan "phantom process killing" di Opsi Pengembang (kalau ada & kamu nyaman ngopreknya).
 
-Coba satu-satu dari yang paling gampang dulu ya. Semoga dengan 'jurus-jurus' ini, Termux-mu jadi gak gampang kena "signal 9" lagi dan anak-anak prosesnya bisa hidup tenang! 😄 Kalau masih ada kendala, kabarin lagi aja!
