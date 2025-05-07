@@ -40,8 +40,8 @@ Kalau ada yang mau ditanyakan, didiskusikan, atau sekadar say hello, jangan ragu
 * **Instagram:** [@aayograph](https://www.instagram.com/aayograph)
 * **Threads:** [@aayograph](https://www.threads.net/@aayograph)
 * **WhatsApp:** [Klik di sini untuk chat](https://wa.me/628998138103)
-* **Discord:** [Gabung Server Diskusi Yuk!]([https://discord.gg/NVcWmz274D])
-* **YouTube:** [Tonton Video Lainnya di Channelku]([https://youtube.com/@sinausedotid?si=uIJwiV6zaxaolXxB])
+* **Discord:** [Gabung Server Diskusi Yuk!](https://discord.gg/NVcWmz274D)
+* **YouTube:** [Tonton Video Lainnya di Channelku](https://youtube.com/@sinausedotid?si=uIJwiV6zaxaolXxB)
 
 ---
 
