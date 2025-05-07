@@ -6,6 +6,7 @@ Pernah ngebayangin HP Android kamu bisa se-powerful PC? Install aplikasi Linux, 
 Kita bakal pasang Desktop Environment Debian (XFCE4 yang ringan) pakai Termux dan `proot-distro`. Dan yang paling seru? **INI GAK PERLU AKSES ROOT, lho!** Cocok banget buat kamu yang pengen nyicipin Linux desktop di HP tanpa ribet, plus nanti kita bikin shortcut keren via widget Termux!
 
 Yuk, langsung aja kita mulai petualangannya! 👇
+* [VIDEONYA DI SINI]([https://github.com/sheetizen/Termux-Desktop/blob/main/InstallDebian.md](https://youtu.be/J_xIr4yUvNA?si=WliFqvbb0QFJDXqO)))
 
 ---
 
