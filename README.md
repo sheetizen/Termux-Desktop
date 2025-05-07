@@ -10,8 +10,9 @@ Aku coba kumpulin di sini biar rapi dan mudah diakses. Jadi, kalau kamu lagi but
 
 ## Cek Panduan & Tutorial Ini Ya! 👇
 
-* [Panduan Lengkap: Pasang Desktop Debian di HP Android Kamu (Gak Perlu Root!)](https://github.com/sheetizen/Termux-Desktop/blob/main/InstallDebian.md))
-* [Tutorial Instalasi n8n di Komputer Lokal Kamu](#tutorial-instalasir-n8n-di-komputer-lokal-kamu)
+* [Panduan Lengkap: Pasang Desktop Debian di HP Android Kamu (Gak Perlu Root!)](https://github.com/sheetizen/Termux-Desktop/blob/main/InstallDebian.md)
+* [Mengatasi Force Close (Signal 9)](https://github.com/sheetizen/Termux-Desktop/blob/main/Mengatasi%20Force%20Closed%20Signal%209.md)
+* [Tutorial Instalasi n8n di LocalHost Android](https://github.com/sheetizen/Termux-Desktop/blob/main/Install%20n8n%20di%20LocalHost%20Android.md)
 
 ---
 
