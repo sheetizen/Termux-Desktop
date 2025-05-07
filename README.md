@@ -10,7 +10,7 @@ Aku coba kumpulin di sini biar rapi dan mudah diakses. Jadi, kalau kamu lagi but
 
 ## Cek Panduan & Tutorial Ini Ya! 👇
 
-* [Panduan Lengkap: Pasang Desktop Debian di HP Android Kamu (Gak Perlu Root!)](#panduan-lengkap-pasang-desktop-debian-di-hp-android-kamu-gak-perlu-root)
+* [Panduan Lengkap: Pasang Desktop Debian di HP Android Kamu (Gak Perlu Root!)](https://github.com/sheetizen/Termux-Desktop/blob/main/InstallDebian.md))
 * [Tutorial Instalasi n8n di Komputer Lokal Kamu](#tutorial-instalasir-n8n-di-komputer-lokal-kamu)
 
 ---
