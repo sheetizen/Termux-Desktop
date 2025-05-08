@@ -23,7 +23,7 @@ Pastikan kamu udah login ke Debian sebagai user pribadimu ya (yang `sheetizen` a
    
 Kalau kamu mau ngejalanin perintah atau script yang butuh waktu lama, sebelum mulai, ketik ini di Termux:
     ```
-    proot-distro login debian --user sheetizen
+proot-distro login debian --user sheetizen
     ```
     (Jangan lupa, ganti `sheetizen` dengan username Debian yang udah kamu buat sebelumnya ya!)
 
@@ -42,7 +42,7 @@ Kalau kamu mau ngejalanin perintah atau script yang butuh waktu lama, sebelum mu
 
 * Terus kita ambil dari web resminya
   ```
-    curl -fsSL https://deb.nodesource.com/setup_20.x | sudo -E bash -
+  curl -fsSL https://deb.nodesource.com/setup_20.x | sudo -E bash -
     ```
   
 * Install NodeJs
