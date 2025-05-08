@@ -175,7 +175,7 @@ Ikuti aja yang ada di video, ya! heheheh
 
 ---
 
-## 🚀 Langkah 6: Wusshh! Jalankan Desktop via Widget!
+## 🚀 Langkah 5: Wusshh! Jalankan Desktop via Widget!
 
 Ini dia momen yang ditunggu-tunggu!
 
@@ -184,6 +184,9 @@ Ini dia momen yang ditunggu-tunggu!
 * **SUPER PENTING LAGI:** Sebelum nge-klik tombol di widget, **PASTIKAN APLIKASI TERMUX X11 SUDAH TERBUKA** di background.
 * Udah siap? Klik nama script di widget itu!
 * Dan... *jeng jeng jeng!* Desktop Linux-mu bakal nongol dengan gagahnya! 💪
+
+
+🔗 [Cara Mengatasi Force Closed](https://github.com/sheetizen/Termux-Desktop/blob/main/Mengatasi%20Force%20Closed%20Signal%209.md)
 
 ---
 
